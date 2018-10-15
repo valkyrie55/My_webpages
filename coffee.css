@@ -1,0 +1,98 @@
+body{
+	background-color: #FFF;
+	font-family:'Raleway',sans-serif;
+}
+.nav ul{
+	text-align:center;
+}
+.nav li{
+    padding:10px;
+    font-size:15px;
+    font-weight:200;
+    letter-spacing: 2px;
+}
+.nav li.logo{
+	font-weight:600;
+	color:black;
+	letter-spacing: 3px;
+	font-size:18px;
+}
+.nav li.donate{
+	font-weight:600;
+	color:red;
+	letter-spacing: 3px;
+	font-size: 18px;
+}
+#banner{
+	background-image: url("https://www.marketing91.com/wp-content/uploads/2018/01/Top-17-Coffee-Brands-in-the-world-7.jpg");
+	background-size: cover;
+	background-position: bottom-center;
+	height:500px;
+	width:100%;
+}
+#banner .content p{
+	padding:15px;
+    margin-left:250px;
+    width:1000px;
+    top:7px;
+    position:relative;
+    font-family: serif;
+    font-style: italic;
+    
+}
+p{
+	text-align:right;
+	line-height:2em;
+	color:red;
+	font-weight: 100;
+
+}
+a{
+	text-decoration: none;
+	color:black;
+	font-weight:200;
+}
+h3{
+	color: saddlebrown;
+	font-weight: 500;
+}
+.byline{
+	border-top:1px solid lightgrey;
+	border-bottom: 1px solid lightgrey;
+	color:black;
+	font-size: 16px;
+	font-weight:500;
+}
+
+#main{
+	padding: 30px;
+	width:90%;
+	text-align:left;
+}
+
+.left_half{
+	float: left;
+	font-style: italic;
+	width: 50%;
+	font-weight: 200;
+	color: red;
+	font-size: 17px;
+} 
+
+.right_half{
+	font-family: "Courier New", Courier, monospace;
+	float: right;
+	width: 45%;
+	font-weight: 200;
+	color: purple;
+}
+
+.deco{
+	font-size: 20px;
+	font-weight: 400;
+	color: brown;
+}
+
+/*https://www.nescafe.co.uk/media/1152/bg-terms.jpg
+https://www.marketing91.com/wp-content/uploads/2018/01/Top-17-Coffee-Brands-in-the-world-7.jpg
+https://www.homegrounds.co/wp-content/uploads/2017/02/Colorful-Coffee.jpg

@@ -1,0 +1,59 @@
+#bash{
+	background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+	background-size:cover;
+	background-position: bottom center;
+	height:240px;
+	margin-top: 25px;
+	margin-bottom: 20px;
+}
+#bash .content h1{
+    margin:0 auto;
+    width:700px;
+    top:25px;
+    padding:20px;
+    position:relative;
+
+}
+h1{
+	font-family: Helvetica;
+	color:khaki;
+	font-size:75px;
+	font-weight:bold;
+	text-align:center;
+}
+.brushes{
+	background-color:mediumspringgreen;
+	font-size:32px;
+	font-weight: bold;
+	font-family:Helvetica;
+	color:#FFF;
+}
+h4{
+	font-weight: bold;
+    font-size:30px;
+}
+p{
+	font-family:serif;
+	font-weight: 200;
+}
+h1,h2,h3,h4,p{
+	font-family:;
+}
+.frames{
+	background-color:lightcoral;
+	font-size:32px;
+	font-weight: bold;
+	font-family:Helvetica;
+	color:#FFF;
+}
+.paint{
+	background-color:skyblue;
+	font-size:32px;
+	font-weight: bold;
+	font-family:Helvetica;
+	color:#FFF;
+}
+.link{
+	color:blue;
+	font-weight:bold;
+}
