@@ -1,0 +1,60 @@
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+  .navbar-nav li{
+    margin:18px;
+  }
+  .navbar-brand{
+    margin: 0px;
+    left:0;
+  }
+  .nav-link{
+    letter-spacing: 1px;
+    font-weight: 100;
+  }
+  .navbar{
+    padding:3px;
+  }
+  .footer{
+    text-align:center;
+    height: 200px;
+    left:0;
+    bottom:0;
+    width: 100%;
+    background-color: grey;
+  }
+  .main{
+    width: 50%;
+    font-size: 20px;
+    color:black;
+    font-weight: 100;
+  }
+  .fa{
+    padding: 20px;
+    font-size:30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+.fa:hover {
+    opacity:0.7;
+  }
+.fa-facebook{
+    background: #3B5998;
+    color:white;
+  }
+.fa-twitter{
+    background:#FFFF00;
+    color:white;
+  }
+.fa-linkedin{
+    background: #007bb5;
+    color:white;
+  }
+.fa-instagram{
+  background:#800080;
+  color:white;
+}
