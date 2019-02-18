@@ -1,0 +1,267 @@
+body{
+	background-color: #DCDCDC;
+}
+.logo{
+	padding: 2px;
+	margin-left: 4px;
+}
+ul{
+	margin-bottom: 0;
+	list-style-type: none;
+	padding: 0px;
+	overflow: hidden;
+	background-color: #white;
+	text-decoration: none;
+}
+.ul-header li{
+	margin-top: 19px;
+}
+.side-style{
+ float: right;
+	margin-right: 27px;
+}
+.nav_link li {
+	float: right;
+	margin-right: 20px;
+	margin-top: 20px;
+    background-color: white;
+    border-radius: 5px;
+	}
+.nav_link a{
+	font-weight: 400;
+	font-size: 21px;
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 12px 10px;
+	text-decoration: none;
+}
+.know_more_button{
+	text-align: center;
+	background-color: blue;
+	color: white;
+	border: none;
+	padding: 15px 12px;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	margin: 4px 2px;
+}
+.apply_now_button{
+	text-align: center;
+	background-color: yellow;
+	color: white;
+	border: none;
+	padding: 15px 12px;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	margin: 4px 2px;
+}
+/*   .active{
+	background-color: orange;
+}
+*/
+.carousel-caption{
+	margin-bottom: 60px;
+}
+.carousel-caption h3{
+	font-weight: 600;
+	padding: 8px;
+	font-size: 38px;
+	margin-bottom: 3px;
+}
+.carousel-caption button{
+   background-color: orange;
+   color: white;
+   font-size: 20px;
+   border: none;
+   font-weight: 600;
+   padding: 8px;
+   margin-top: 3px;
+   border-radius: 4px;
+}
+.carousel-caption p{
+    font-size: 21px;
+    font-weight: 400;
+}
+.next-image{
+	float: left;
+}
+.next-image h3{
+	font-weight: 700;
+	color: black;
+}
+.next-image p{
+	color: black;
+	font-weight: 400;
+}
+.next-image button{
+    background-color: blue;
+    color: white;
+    font-size: 22px;
+    font-weight: 600;
+    padding: 10px;
+}
+.third-image{
+	margin-bottom: 100px;
+}
+.third-image h3{
+	font-weight: 600;
+}
+.bold_text{
+	color: black;
+	font-weight: 600;
+}
+.search-container{
+    font-size: 27px;
+    font-weight: 400;
+    padding: 10px;
+}
+.green:hover{
+	color: green;
+}
+.blue:hover{
+	color: blue;
+}
+.orange:hover{
+	color: orange;
+}
+.heading {
+	font-weight: 400;
+	text-align: center;
+	margin-top:35px;
+}
+hr{
+	border: 2px solid grey;
+	color: grey;
+}
+.heading a{
+	color: black;
+}
+.pictures{
+	font-weight: 600;
+	margin-left: 500px;
+	margin-top: 40px;
+	color: black;
+	margin-bottom: 30px;
+}
+div.gallery{
+    margin: 5px;
+    float: left;
+    width: 220px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    box-shadow:  5px 10px 18px white;
+}
+div.gallery img{
+	width: 200px;
+	height: auto;
+}
+div.desc{
+	padding: 15px;
+	text-align: center;
+}
+.desc h6{
+	text-align: center;
+	color: RoyalBlue;
+}
+.fixed{
+	width: 1000px;
+	margin-left: 180px;
+}
+footer{
+	background-color: black;
+	color: white;
+	height: 350px;
+	margin-top: 0px;
+}
+.last-button{
+	margin-left: 450px;
+	margin-bottom: 40px;
+	border: none;
+	color: white;
+	background-color: RoyalBlue;
+	font-size: 23px;
+	font-weight: 600;
+	padding: 14px;
+}
+.last-button a{
+    color: white;
+	}
+.col-sm-2{
+	margin-top: 30px;
+	margin-left: 75px;
+	margin-bottom: 20px;
+	list-style-type: none;
+}
+.col-sm-2 a{
+	font-size: 15px;
+	color: white;
+}
+.col-sm-2 a:hover{
+	color: white;
+}
+.row p{
+	font-weight: 600;
+}
+/* 
+.fa{
+	padding: 20px;
+	font-size: 40px;
+	width: 50px;
+	text-align: center;
+	text-decoration: none;
+	height: 50px;
+	margin: 5px 5px;
+	border-radius: 50%; to make round buttons 
+	float: right;
+}
+
+*/
+.icon-bar {
+  position: fixed;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.google {
+  background: #dd4b39;
+  color: white;
+}
+
+.linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.youtube {
+  background: #bb0000;
+  color: white;
+}
