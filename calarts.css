@@ -1,0 +1,42 @@
+body{
+	background-color: #0e1e38;
+	margin: 0;
+}
+img{
+	margin-left: 50px;
+}
+form{
+	width: 300px;
+	float: right;
+    margin-top: 50px;
+    margin-right: 300px;
+}
+.site-search{
+	margin-top: 20px;
+	margin-left: 7%;
+	width: 40%;
+	margin-top: .5em;
+	font-family: "PT Sans", sans-serif;
+}
+.screen-reader-text{
+	position: absolute;
+	overflow: hidden;
+	height: 1px;
+	width: 1px;
+	margin: -1px;
+	padding: 0;
+	border: 0;
+}
+.site-search .search-field{
+	margin-top: 40px;
+	font-size:1.5em;
+	min-width: 70%;
+	background-color: #0e1e38;
+	border: none;
+	color: #f7b43e;
+	border-bottom: 2px solid #f7b43e;
+	border-radius: 0;
+}
+ul{
+	list-style: none;
+}

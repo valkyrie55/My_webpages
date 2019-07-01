@@ -1,10 +1,6 @@
 body{
 	background-color: #DCDCDC;
 }
-* {
-  box-sizing: border-box;
-}
-
 .logo{
 	padding: 2px;
 	margin-left: 4px;
@@ -39,28 +35,6 @@ ul{
 	text-align: center;
 	padding: 12px 10px;
 	text-decoration: none;
-}
-.know_more_button{
-	text-align: center;
-	background-color: blue;
-	color: white;
-	border: none;
-	padding: 15px 12px;
-	text-decoration: none;
-	display: inline-block;
-	font-size: 20px;
-	margin: 4px 2px;
-}
-.apply_now_button{
-	text-align: center;
-	background-color: yellow;
-	color: white;
-	border: none;
-	padding: 15px 12px;
-	text-decoration: none;
-	display: inline-block;
-	font-size: 20px;
-	margin: 4px 2px;
 }
 /*   .active{
 	background-color: orange;
